@@ -13,6 +13,6 @@
 
 ![image](https://github.com/user-attachments/assets/def0b72e-216e-470c-91b4-a8f691e94982)
 
-ссылка на документацию [playbook/README.md](https://github.com/Skrypnikoviv/08-ansible-02/edit/main/playbook/README.md)
+ссылка на документацию [playbook/README.md](https://github.com/Skrypnikoviv/08-ansible-03-yandex/blob/main/playbook/README.md)
 
 
